@@ -422,7 +422,7 @@ A点坐标.y=雷达中心坐标.y-距离*cos(角度*PI/180);
 
 ### 算法分析6
 
-<img src=".\Images\雷达视线.png" style="zoom:50%;" />
+<img src="https://github.com/TKazer/DrawAlgorithm/blob/main/Images/%E9%9B%B7%E8%BE%BE%E8%A7%86%E7%BA%BF.png" width="250" height="250" />
 
 
 ------
