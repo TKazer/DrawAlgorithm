@@ -524,7 +524,7 @@ float 斜边长度;
 float 角度;
 float 矩形高度;
 Pos   敌人坐标;
-Pos	  底点[n+1];
+Pos   底点[n+1];
 Pos   顶点[n+1];
 Point 前一个底点;
 Point 前一个顶点;
